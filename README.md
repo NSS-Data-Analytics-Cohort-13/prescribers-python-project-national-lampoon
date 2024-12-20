@@ -1,8 +1,10 @@
 # Tennessee's Opioid Crisis
 
-Opioids are a class of drugs including prescription pain relievers such as oxycodone and hydrocodone, the synthetic opioid fentanyl, and the illegal drug heroin. These drugs produce euphoria in addition to pain relief, which can lead to dependence, addiction, overdose, and death. 
+Opioids are a class of drugs including prescription pain relievers such as oxycodone and hydrocodone, the synthetic opioid fentanyl, and the illegal drug heroin.
+ These drugs produce euphoria in addition to pain relief, which can lead to dependence, addiction, overdose, and death. 
 
-In the late 1990s, opioids began to be prescribed at high rates, which led to widespread misuse and ultimately created a serious national health crisis. In 2019, more than 130 people per day died from opioid-related drug overdoses in the United States. Tennessee has been one of the hardest-hit states in the opioid epidemic, with more than 1300 overdose deaths in 2018.
+In the late 1990s, opioids began to be prescribed at high rates, which led to widespread misuse and ultimately created a serious national health crisis. In 2019,
+ more than 130 people per day died from opioid-related drug overdoses in the United States. Tennessee has been one of the hardest-hit states in the opioid epidemic, with more than 1300 overdose deaths in 2018.
 
 In this project, you will be working with a database created from the 2017 Medicare Part D Prescriber Public Use File to answer the following questions:  
 * Which Tennessee counties had a disproportionately high number of opioid prescriptions?
